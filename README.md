@@ -6,7 +6,7 @@
 <h3 align="center" style="font-weight: bold;">I write code on the internet</h3>
 </br>
 
-<p align="right" style="font-weight: 500;"> ATM i'm working on <a href="https://github.com/AdamCala/siewki">SIEWKI</a> </p>
+<p align="right" style="font-weight: 500;"> ATM i'm working on <a href="https://github.com/AdamCala/siewki" style="font-weight: 700;">SIEWKI</a> </p>
 
 <p align="right" style="font-weight: 500;"> 🌱 vibing ᗜ˰ᗜ </p>
 
